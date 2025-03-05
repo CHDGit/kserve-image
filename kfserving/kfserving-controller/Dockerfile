@@ -1,1 +1,1 @@
-FROM gcr.io/kfserving/kfserving-controller:v0.6.0
+FROM gcr.io/kfserving/kfserving-controller:v0.5.0
