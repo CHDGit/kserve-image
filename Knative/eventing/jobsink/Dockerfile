@@ -1,1 +1,0 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/jobsink@sha256:8ef6de3124ea65ecbdb0dd6840c9ba62cab3505a1c129ef45032809b944105e9
