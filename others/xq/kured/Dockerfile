@@ -1,1 +1,1 @@
-FROM ghcr.io/kubereboot/kured:5.6.2
+FROM ghcr.io/kubereboot/kured:v5.6.2
