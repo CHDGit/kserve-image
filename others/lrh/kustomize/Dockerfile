@@ -1,0 +1,1 @@
+FROM kustomize:latest
