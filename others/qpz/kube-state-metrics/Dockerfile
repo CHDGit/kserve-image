@@ -1,1 +1,1 @@
-FROM registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0-arm64
+FROM --platform=linux/arm64 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
