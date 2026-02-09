@@ -1,1 +1,1 @@
-FROM bitnami/mongodb:6.0.10-debian-11-r8
+FROM bitnamilegacy/redis:7.0.9-debian-11-r1
