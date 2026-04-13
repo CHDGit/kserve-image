@@ -1,0 +1,1 @@
+FROM gcr.io/k8s-staging-gateway-api/echo-basic:v20231214-v1.0.0-140-gf544a46e
