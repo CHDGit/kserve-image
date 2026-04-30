@@ -1,1 +1,0 @@
-FROM mongodb_exporter:latest
